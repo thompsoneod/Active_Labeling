@@ -1,0 +1,22 @@
+# Directories
+test_2/
+visdrone_src/
+visdrone_al_test/
+processed_visdrone_exp_dataset/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# System files
+.DS_Store
+.*env
+*.log
+*.jpg
+*.txt
+*.pt
+
+# IDE settings
+.vscode/
