@@ -1,0 +1,20 @@
+# YOLOv8 Dataset Configuration
+# Base path to dataset
+path: /home/allen4/work_proj/VISDRONE_DATASET_EVAL/test_6/al_test
+
+# Image directories
+train: train/images  # Training image folder - 43 images
+val: val/images      # Validation image folder - 548 images
+
+# Class names and indices (train/val split)
+names:
+  0: pedestrian        # Individual walking         540 / 8844 instances
+  1: people            # Groups of people           165 / 5125 instances
+  2: bicycle           # Two-wheeled pedal vehicle  51 / 1287 instances
+  3: car               # Personal automobile        685 / 14064 instances
+  4: van               # Delivery/cargo van         175 / 1975 instances
+  5: truck             # Large cargo vehicle        37 / 750 instances
+  6: tricycle          # Three-wheeled vehicle      13 / 1045 instances
+  7: awning-tricycle   # Covered three-wheeler      18 / 532 instances
+  8: bus               # Public transport vehicle   33 / 251 instances
+  9: motor             # Motorcycle/scooter         243 / 4886 instances

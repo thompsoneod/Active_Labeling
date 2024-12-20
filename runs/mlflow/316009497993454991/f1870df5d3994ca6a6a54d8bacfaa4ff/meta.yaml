@@ -1,0 +1,15 @@
+artifact_uri: /home/allen4/work_proj/VISDRONE_DATASET_EVAL/FINAL_PRODUCT/runs/mlflow/316009497993454991/f1870df5d3994ca6a6a54d8bacfaa4ff/artifacts
+end_time: 1734485347278
+entry_point_name: ''
+experiment_id: '316009497993454991'
+lifecycle_stage: active
+run_id: f1870df5d3994ca6a6a54d8bacfaa4ff
+run_name: img_proc_5_rand
+run_uuid: f1870df5d3994ca6a6a54d8bacfaa4ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734485169875
+status: 3
+tags: []
+user_id: allen4
